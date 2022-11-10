@@ -20,8 +20,11 @@
             "version": "detect"
         }
     },
-    "extends": [],
-    "ignorePatterns": ["jsconfig.json"],
+    "extends": [
+        "eslint:recommended",
+        "plugin:react/recommended",
+        "prettier"
+    ],
     "rules": {
         "strict": 0
     }
