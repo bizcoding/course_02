@@ -1,7 +1,7 @@
 {
-  "name": "bizcodding_lession_01",
+  "name": "bizcodding_lession_02",
   "version": "1.0.0",
-  "description": "실무코딩 ES6/함수형 프로그램 교육",
+  "description": "실무를 위한 React 과정",
   "license": "MIT",
   "scripts": {
     "web": "webpack-dev-server --config webpack.config.js --mode=development"
