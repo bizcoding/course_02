@@ -8,7 +8,7 @@ export default () => (
         <div className='w-full grid grid-cols-2 md:grid-cols-4 xl:grid-cols-6 gap-2'>
             <div className='flex flex-col gap-1'>
                 <img
-                    clasName='grow rounded-lg'
+                    className='grow rounded-lg'
                     src='https://image.tmdb.org/t/p/original/aVLYKc8PeHmMqLF9g7Ywej3Pe2M.jpg'
                 />
                 <div className='flex-none flex flex-row'>
@@ -18,7 +18,7 @@ export default () => (
             </div>
             <div className='flex flex-col gap-1'>
                 <img
-                    clasName='grow rounded-lg'
+                    className='grow rounded-lg'
                     src='https://image.tmdb.org/t/p/original/mahoRwcpJRx8TAuE6lKrYqCv8io.jpg'
                 />
                 <div className='flex-none flex flex-row'>
